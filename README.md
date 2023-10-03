@@ -1,16 +1,20 @@
-### Hi there 👋
+### bem vindos à sweet cakes!
 
-<!--
-**ramirami123/ramirami123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"a vida fica mais colorida com um doce"
 
-Here are some ideas to get you started:
+nossa empresa de doces irá seu dia como nunca!
+recebemos nossos clientes da melhor maniera existente.
+além de poder comprar uns dos doces mais maravilhosos do mundo, você terá benefícios, como:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- um ótimo atendimento
+- ofertas todos os finais de semana
+- entregas rápidas
+
+e aqui estão alguns doces que oferecemos:
+
+- bombom R$ 3,50
+- cupcake R$ 5,00
+- brownie R$ 3,00
+- bolos R$ 45,00 (o kg)
+
+![](https://media.tenor.com/otcqFS9GrREAAAAC/tinakitten.gif)
